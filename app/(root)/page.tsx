@@ -16,5 +16,4 @@ const SetupPage = () => {
   return <div className='m-4'>Root Page</div>;
 };
 
-// with pages always export default
 export default SetupPage;
