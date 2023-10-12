@@ -12,7 +12,7 @@ import { toast } from 'react-hot-toast';
 import { Input } from '@/components/ui/input';
 import { Button } from '@/components/ui/button';
 import { Separator } from '@/components/ui/separator';
-import { Heading } from './heading';
+import { Heading } from '@/components/ui/heading';
 
 import { AlertModal } from '@/components/modals/alert-modal';
 import { useOrigin } from '@/hooks/use-origin';
