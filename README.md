@@ -23,7 +23,6 @@ npm install
 #### Set up the database:
 - Ensure MySQL is installed and running.
 - Configure the database connection in .env file using DATABASE_URL.
-- 
 #### Run the project:
 ```bash
 npm run dev
