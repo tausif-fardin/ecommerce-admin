@@ -13,7 +13,7 @@ To get the project up and running locally, follow these steps:
 
 #### First, install the libraries:
 ```bash
-git clone <repository-url>
+git clone https://github.com/tausif-fardin/ecommerce-admin.git
 cd ecommerce-admin
 ```
 #### Install dependencies:
